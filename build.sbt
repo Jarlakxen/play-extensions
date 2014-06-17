@@ -71,7 +71,7 @@ libraryDependencies ++= Seq(
 )
 
 pomExtra := (
-  <url>https://github.com/Jarlakxen/spray-extensions</url>
+  <url>https://github.com/Jarlakxen/play-extensions</url>
   <licenses>
     <license>
       <name>Apache 2</name>
@@ -79,15 +79,15 @@ pomExtra := (
     </license>
   </licenses>
   <scm>
-    <url>https://github.com/Jarlakxen/spray-extensions</url>
-    <connection>scm:git:git@github.com:Jarlakxen/spray-extensions.git</connection>
-    <developerConnection>scm:git:git@github.com:Jarlakxen/spray-extensions.git</developerConnection>
+    <url>https://github.com/Jarlakxen/play-extensions</url>
+    <connection>scm:git:git@github.com:Jarlakxen/play-extensions.git</connection>
+    <developerConnection>scm:git:git@github.com:Jarlakxen/play-extensions.git</developerConnection>
   </scm>
   <developers>
     <developer>
       <id>Jarlakxen</id>
       <name>Facundo Viale</name>
-      <url>https://github.com/Jarlakxen/spray-extensions</url>
+      <url>https://github.com/Jarlakxen/play-extensions</url>
     </developer>
   </developers>
 )
